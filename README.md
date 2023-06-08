@@ -1,1 +1,1 @@
-# telegram_bot
+Lotin - krill telegram bot
